@@ -5,7 +5,7 @@ The implementation plan should be updated to explicitly define **v1.0 as an anon
 * [x] CP-01 Bootstrap
 * [x] CP-02 Configuration
 * [x] CP-03 Database
-* [ ] CP-04 Migrations
+* [x] CP-04 Migrations
 * [ ] CP-05 URL Model
 * [ ] CP-06 Repository
 * [ ] CP-07 Short Code Generator
