@@ -19,6 +19,12 @@ Run tests:
 pytest
 ```
 
+Configure the app:
+
+```bash
+cp .env.example .env
+```
+
 Run the API locally:
 
 ```bash
@@ -34,7 +40,7 @@ GET /health
 ## Checkpoint Status
 
 * [x] CP-01 Bootstrap
-* [ ] CP-02 Configuration
+* [x] CP-02 Configuration
 * [ ] CP-03 Database
 * [ ] CP-04 Migrations
 * [ ] CP-05 URL Model
