@@ -381,7 +381,7 @@ The project is considered implemented when all items below are completed.
 
 ## Database
 
-* [ ] PostgreSQL configured
+* [x] PostgreSQL configured
 * [ ] SQLAlchemy models created
 * [ ] Alembic migrations created
 * [ ] Database indexes created

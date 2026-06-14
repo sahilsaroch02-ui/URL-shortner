@@ -31,6 +31,9 @@ Run the API locally:
 uvicorn app.main:app --reload
 ```
 
+The database layer uses SQLAlchemy 2.0. Local development defaults to SQLite,
+while deployed environments can point `DATABASE_URL` at PostgreSQL.
+
 Health check:
 
 ```http
@@ -41,7 +44,7 @@ GET /health
 
 * [x] CP-01 Bootstrap
 * [x] CP-02 Configuration
-* [ ] CP-03 Database
+* [x] CP-03 Database
 * [ ] CP-04 Migrations
 * [ ] CP-05 URL Model
 * [ ] CP-06 Repository
