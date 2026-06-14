@@ -1,5 +1,25 @@
 The implementation plan should be updated to explicitly define **v1.0 as an anonymous/public URL Shortener** with **no Authentication, Authorization, Users, Sessions, JWT, Roles, or Permissions**.
 
+# Checkpoint Status
+
+* [x] CP-01 Bootstrap
+* [ ] CP-02 Configuration
+* [ ] CP-03 Database
+* [ ] CP-04 Migrations
+* [ ] CP-05 URL Model
+* [ ] CP-06 Repository
+* [ ] CP-07 Short Code Generator
+* [ ] CP-08 URL Validation
+* [ ] CP-09 Create URL API
+* [ ] CP-10 Redirect API
+* [ ] CP-11 Expiration
+* [ ] CP-12 Analytics
+* [ ] CP-13 Security
+* [ ] CP-14 Backup
+* [ ] CP-15 Docker
+* [ ] CP-16 Testing
+* [ ] CP-17 CI/CD
+
 # Key Changes to the Plan
 
 ## Scope Statement
